@@ -1,0 +1,43 @@
+/* recharts.css */
+
+.custom-cell-color-0 {
+  fill: #FF6363; /* Red */
+}
+
+.custom-cell-color-1 {
+  fill: #63C2FF; /* Blue */
+}
+
+.custom-cell-color-2 {
+  fill: #FFB563; /* Orange */
+}
+
+.custom-cell-color-3 {
+  fill: #63FF94; /* Green */
+}
+
+.custom-cell-color-4 {
+  fill: #A763FF; /* Purple */
+}
+
+.custom-cell-color-5 {
+  fill: #FF63F8; /* Pink */
+}
+
+.custom-cell-color-6 {
+  fill: #FFCE63; /* Yellow */
+}
+
+.custom-cell-color-7 {
+  fill: #63FFD6; /* Teal */
+}
+
+.custom-cell-color-8 {
+  fill: #FFA663; /* Light Orange */
+}
+
+.custom-cell-color-9 {
+  fill: #63A0FF; /* Light Blue */
+}
+
+/* Add more custom colors as needed */
